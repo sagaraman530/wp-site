@@ -1,0 +1,1 @@
+(function($){'use strict';$(function(){if(fac_data.page_event_id){fathom.trackGoal(fac_data.page_event_id,0);}});})(jQuery);
